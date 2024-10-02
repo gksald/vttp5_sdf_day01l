@@ -1,2 +1,2 @@
-# Compile instructionsn for Java
+# Compile instructions for Java
 
